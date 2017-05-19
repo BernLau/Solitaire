@@ -1,0 +1,63 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+    Driver:   21.20.16.4550
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Bernard\Documents\Unity games\Solitaire\Solitaire_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Bernard\Documents\Unity games\Solitaire\Solitaire_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Bernard\Documents\Unity games\Solitaire\Solitaire_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Bernard\Documents\Unity games\Solitaire\Solitaire_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Bernard\Documents\Unity games\Solitaire\Solitaire_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Bernard\Documents\Unity games\Solitaire\Solitaire_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Bernard\Documents\Unity games\Solitaire\Solitaire_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Bernard\Documents\Unity games\Solitaire\Solitaire_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Bernard\Documents\Unity games\Solitaire\Solitaire_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Bernard\Documents\Unity games\Solitaire\Solitaire_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.027 seconds
+Platform assembly: C:\Users\Bernard\Documents\Unity games\Solitaire\Solitaire_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Bernard\Documents\Unity games\Solitaire\Solitaire_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.761185 ms
+d_13(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+h_11(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+d_7(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+d_13(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+s_1(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+d_10(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+s_9(Clone) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.326419 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 644.
+Total: 0.293530 ms (FindLiveObjects: 0.043456 ms CreateObjectMapping: 0.026074 ms MarkObjects: 0.219654 ms  DeleteObjects: 0.003950 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 474 -> priority: 1 
